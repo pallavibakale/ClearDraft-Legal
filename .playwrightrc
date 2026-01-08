@@ -1,0 +1,18 @@
+# Playwright Test Suite
+
+Tests created for ClearDraft Legal Toolkit.
+
+## Quick Start
+
+```bash
+# Install dependencies
+npm install
+
+# Install browsers
+npx playwright install
+
+# Run tests
+npm test
+```
+
+See `tests/README.md` for detailed documentation.
